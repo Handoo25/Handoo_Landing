@@ -157,7 +157,7 @@ h3 {
 
 h1 {
   max-width: 680px;
-  font-size: clamp(42px, 5vw, 64px); /* El equilibrio perfecto entre los 104 originales y los 48 anteriores */
+  font-size: clamp(48px, 6vw, 76px); /* Subimos el mínimo a 48px y el máximo a 76px */
   line-height: 1.1;
 }
 
@@ -727,7 +727,7 @@ h3 {
   }
 
   h1 {
-    font-size: 42px;
+    font-size: 46px;
   }
 
   .lead {
